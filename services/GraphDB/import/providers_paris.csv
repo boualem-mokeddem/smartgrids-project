@@ -1,0 +1,31 @@
+provider_id,provider_name,provider_type,address,lat,lon,price_eur_per_kwh,buy_eur_per_kwh
+prov_001,EDF,HistoricSupplier,"22-30 Avenue de Wagram, 75008 Paris, France",48.8747228,2.2957231,0.194,0.095
+prov_002,ENGIE,AlternativeSupplier,"67 Rue Jules Ferry, 92250 La Garenne-Colombes, France",48.9028038,2.2339551,0.1985,0.102
+prov_003,TotalEnergies,AlternativeSupplier,"2bis Rue Louis Armand, 75015 Paris, France",48.8329368,2.2769037,0.1783,0.088
+prov_004,Ekwateur,GreenSupplier,"79 Rue de Clichy, 75009 Paris, France",48.8824178,2.3277826,0.1781,0.11
+prov_005,Ohm Énergie,AlternativeSupplier,"10 Rue de Penthièvre, 75008 Paris, France",48.8730929,2.3165648,0.1703,0.082
+prov_006,Vattenfall,AlternativeSupplier,"69 Avenue Pierre Grenier, 92100 Boulogne-Billancourt, France",48.832554,2.253243,0.1861,0.09
+prov_007,Octopus Energy France,GreenSupplier,"87 Rue de Richelieu, 75002 Paris, France",48.8700533,2.3389697,0.1862,0.12
+prov_001,EDF,HistoricSupplier,"22-30 Avenue de Wagram, 75008 Paris, France",48.8747228,2.2957231,0.194,0.095
+prov_002,ENGIE,AlternativeSupplier,"67 Rue Jules Ferry, 92250 La Garenne-Colombes, France",48.9028038,2.2339551,0.1985,0.102
+prov_003,TotalEnergies,AlternativeSupplier,"2bis Rue Louis Armand, 75015 Paris, France",48.8329368,2.2769037,0.1783,0.088
+prov_004,Ekwateur,GreenSupplier,"79 Rue de Clichy, 75009 Paris, France",48.8824178,2.3277826,0.1781,0.11
+prov_005,Ohm Énergie,AlternativeSupplier,"10 Rue de Penthièvre, 75008 Paris, France",48.8730929,2.3165648,0.1703,0.082
+prov_006,Vattenfall,AlternativeSupplier,"69 Avenue Pierre Grenier, 92100 Boulogne-Billancourt, France",48.832554,2.253243,0.1861,0.09
+prov_007,Octopus Energy France,GreenSupplier,"87 Rue de Richelieu, 75002 Paris, France",48.8700533,2.3389697,0.1862,0.12
+prov_001,EDF,HistoricSupplier,"22-30 Avenue de Wagram, 75008 Paris, France",48.8747228,2.2957231,0.194,0.095
+prov_002,ENGIE,AlternativeSupplier,"67 Rue Jules Ferry, 92250 La Garenne-Colombes, France",48.9028038,2.2339551,0.1985,0.102
+prov_003,TotalEnergies,AlternativeSupplier,"2bis Rue Louis Armand, 75015 Paris, France",48.8329368,2.2769037,0.1783,0.088
+prov_004,Ekwateur,GreenSupplier,"79 Rue de Clichy, 75009 Paris, France",48.8824178,2.3277826,0.1781,0.11
+prov_005,Ohm Énergie,AlternativeSupplier,"10 Rue de Penthièvre, 75008 Paris, France",48.8730929,2.3165648,0.1703,0.082
+prov_006,Vattenfall,AlternativeSupplier,"69 Avenue Pierre Grenier, 92100 Boulogne-Billancourt, France",48.832554,2.253243,0.1861,0.09
+prov_007,Octopus Energy France,GreenSupplier,"87 Rue de Richelieu, 75002 Paris, France",48.8700533,2.3389697,0.1862,0.12
+prov_001,EDF,HistoricSupplier,"22-30 Avenue de Wagram, 75008 Paris, France",48.8747228,2.2957231,0.194,0.095
+prov_002,ENGIE,AlternativeSupplier,"67 Rue Jules Ferry, 92250 La Garenne-Colombes, France",48.9028038,2.2339551,0.1985,0.102
+prov_003,TotalEnergies,AlternativeSupplier,"2bis Rue Louis Armand, 75015 Paris, France",48.8329368,2.2769037,0.1783,0.088
+prov_004,Ekwateur,GreenSupplier,"79 Rue de Clichy, 75009 Paris, France",48.8824178,2.3277826,0.1781,0.11
+prov_005,Ohm Énergie,AlternativeSupplier,"10 Rue de Penthièvre, 75008 Paris, France",48.8730929,2.3165648,0.1703,0.082
+prov_006,Vattenfall,AlternativeSupplier,"69 Avenue Pierre Grenier, 92100 Boulogne-Billancourt, France",48.832554,2.253243,0.1861,0.09
+prov_007,Octopus Energy France,GreenSupplier,"87 Rue de Richelieu, 75002 Paris, France",48.8700533,2.3389697,0.1862,0.12
+prov_001,EDF,HistoricSupplier,"22-30 Avenue de Wagram, 75008 Paris, France",48.8747228,2.2957231,0.194,0.095
+prov_002,ENGIE,AlternativeSupplier,"67 Rue Jules Ferry, 92250 La Garenne-Colombes, France",48.9028038,2.2339551,0.1985,0.102

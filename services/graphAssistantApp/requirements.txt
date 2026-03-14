@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+neo4j
+pandas
+pydantic
+google-genai
+requests

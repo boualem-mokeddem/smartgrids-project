@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+requests
+pydeck
+folium
+streamlit-folium
+neo4j
