@@ -136,7 +136,7 @@ smartgrids-stack/
 
 ## Prerequisites
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/) (with WSL 2 backend on Windows)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) 
 - A Google Gemini API key ([get one here](https://aistudio.google.com/app/apikey))
 
 ---
@@ -202,13 +202,9 @@ docker compose down -v
 
 ### Building the Graph Database
 
-On first launch, the Neo4j container starts with an empty database. Use the **Admin / Setup** sidebar in the Streamlit UI to bootstrap the graph:
+On first launch, the Neo4j container starts with an empty database. Use the **Data Loader** sidebar in the Streamlit UI to bootstrap the graph:
 
-1. Click **"Create indexes (recommended)"** — creates all constraints and spatial indexes.
-2. Click **"Load providers_paris.csv into Neo4j"** — loads electricity providers.
-3. Click **"Load building producer prices"** — enriches prosumer nodes with reliability scores and selling prices.
-
-> For the full graph (buildings, IRIS, BT lines, consumption, production), run the `CREATE_GRAPH_DB_STEPS` list from `queries.py` via the Neo4j Browser or a Python migration script. Place all required CSV files in `neo4j/import/` before running.
+This will run the `CREATE_GRAPH_DB_STEPS` list from `queries.py` via the Python migration script. Place all required CSV files in `neo4j/import/` before running.
 
 ---
 
@@ -506,8 +502,3 @@ docker compose logs neo4j
 | No battery storage | Grid balance assumes instantaneous net consumption/production. |
 | Session-only saved grids | Saved grids live in `st.session_state` and are lost on page refresh. |
 
----
-
-## Licence
-
-This project is developed as part of an academic research module on local energy communities and smart grid optimisation.
